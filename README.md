@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
-<h3 align="center">I'm a Aspiring Data Analyst | Data Enthusiast from Nepal.</h3>
+<h3 align="center">Aspiring Data Analyst | Data Enthusiast from Nepal.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -23,6 +23,10 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/50/000000/php-logo.png"/> </a>
     <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/> </a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/jupyter.png"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://imgur.com/T0UpIdF.png" height="45"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/numpy.png"/> </a>
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://imgur.com/5dPaHTw.png" height="45"/> </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://imgur.com/mEF6twm.png" height="45"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
