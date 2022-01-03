@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://learnworthy.net/wp-content/uploads/2019/10/10-things-every-programmer-should-know.jpg" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://learnworthy.net/wp-content/uploads/2019/10/10-things-every-programmer-should-know.jpg" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
 <h3 align="center">I'm a Aspiring Data Analyst | Data Enthusiast from Nepal.</h3>
