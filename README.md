@@ -50,33 +50,16 @@
    <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarManish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>  
-  
-  ## **GitHub Trophies :**
+<a href="https://github.com/KunwarManish/github-readme-activity-graph"><img alt="Manish Kunwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KunwarManish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+ ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="centre">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
+<br/>
+<a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
+<br/>
 </p>
-
-
-<p align="centre">
-<a href="https://github.com/Jiganesh" title="Redirect's to KunwarManish's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KunwarManish&show_icons=true&theme=dark" /></a>
-  
-<a href="https://github.com/KunwarManish">
-<img width="49%" title="Redirect's to KunwarManish Github" src="https://github-readme-streak-stats.herokuapp.com/?user=KunwarManish&theme=dark" /></a>
-
-<a href ="https://github.com/KunwarManish" title="Redirect's to KunwarManish's Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarManish&layout=compact&theme=dark&langs_count=10"/></a>
-
-</p>
-<br/>
-<br/>
-
-<a href="https://github.com/KunwarManish/github-readme-activity-graph"><img alt="Manish Kunwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KunwarManish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
@@ -91,7 +74,4 @@
     <img src="https://komarev.com/ghpvc/?username=KunwarManish">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/KunwarManish?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-<img src="https://github.com/KunwarManish/KunwarManish/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
