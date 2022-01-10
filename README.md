@@ -51,14 +51,12 @@
   
   
   <a href="https://github.com/KunwarManish/github-readme-activity-graph"><img alt="Manish Kunwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KunwarManish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/></p>
+  <br/></p>
 
  ## **GitHub Trophies :**
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-
 <p align="centre">
 <br/>
-<a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
+    <a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
 <br/>
 </p>
 
