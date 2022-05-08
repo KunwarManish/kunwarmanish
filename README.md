@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
-<h3 align="center">Aspiring Data Analyst | Data Enthusiast from Nepal.</h3>
+<h3 align="center">Data Analyst from Nepal.</h3>
 
 
 ## 🙋‍♂️ About Me
