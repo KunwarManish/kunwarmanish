@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Manish</h1>
-<h3 align="center">Data Analyst from Nepal.</h3>
+<h3 align="center">I'm a passionate Data Analyst from Nepal.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -47,9 +47,8 @@
 <p align="center">
   <br/>
     <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KunwarManish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarManish&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+     <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarManish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
     
   <a href="https://github.com/KunwarManish/github-readme-activity-graph"><img alt="Manish Kunwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KunwarManish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <br/></p>
