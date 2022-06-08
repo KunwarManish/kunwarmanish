@@ -54,6 +54,11 @@
   <br/></p>
 
  ## **GitHub Trophies :**
+ <p align="centre">
+<a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
+</p>
+ 
+ 
 <p align="centre">
 <br/>
     <a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
