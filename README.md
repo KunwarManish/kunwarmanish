@@ -61,7 +61,7 @@
  
 <p align="centre">
 <br/>
-    <a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="KunwarManish"/></a>
+    <a href="https://github.com/KunwarManish"><img src="https://github-profile-trophy.vercel.app/?username=KunwarManish&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=onestar&no-frame=true" alt="KunwarManish"/></a>
 <br/>
 </p>
 
