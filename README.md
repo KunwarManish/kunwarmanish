@@ -46,7 +46,7 @@
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-    <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KunwarManish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KunwarManish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3e3e3e" /></a>
      <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunwarManish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=3e3e3e" /></a>
   <br/>
     
