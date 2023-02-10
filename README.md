@@ -43,7 +43,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 <p align="center">
   <br/>
     <a href="https://github.com/KunwarManish/github-readme-stats"><img alt="Manish Kunwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KunwarManish&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=3e3e3e" /></a>
@@ -51,7 +51,7 @@
   <br/>
     
   <a href="https://github.com/KunwarManish/github-readme-activity-graph"><img alt="Manish Kunwar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KunwarManish&bg_color=3e3e3e&color=5BCDEC&line=5BCDEC&point=2f4f4f&hide_border=true" /></a>
-  <br/></p>
+  <br/></p> -->
 
  ## **GitHub Trophies :** 
 <p align="centre">
